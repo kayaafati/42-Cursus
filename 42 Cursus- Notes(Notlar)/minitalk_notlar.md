@@ -24,9 +24,9 @@ Bu fonksiyon, üst fonksiyonun işlem kimliğini döndürür. (This function ret
 
   | 	—> bit düzeyinde VEYA operatörü
   
-  <<	—> sola kay
+ |<<	—> sola kay ('|' işareti dahil değil)
 
-  >>	—> sağa kay
+ |>>	—> sağa kay ('|' işareti dahil değil)
 
   &	—> bit düzeyinde VE operatörü
 
