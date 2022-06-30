@@ -21,11 +21,18 @@ unistd.h kütüphanesindedir.
 Bu fonksiyon, üst fonksiyonun işlem kimliğini döndürür. (This function returns the process id of the parent function.)
 
 ### **Minitalk’ta Kullanılan Bazı Operatörler**
+
   | 	—> bit düzeyinde VEYA operatörü
+  
   <<	—> sola kay
+
   >>	—> sağa kay
+
   &	—> bit düzeyinde VE operatörü
 
+
 #### **Kullanılmayan Operatörler**
+
   ^	—> bit düzeyinde özel VEYA
+
   ~	—> bit düzeyinde tamamlayıcı
