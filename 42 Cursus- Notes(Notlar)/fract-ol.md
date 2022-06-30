@@ -22,7 +22,7 @@ Z₁ = Z²	—>Re(Z₁) = Re(Z²)
 
 a + bi = x + yi —-> a =x ve y = b
 
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
 
 ## **-Notlar-**
 16’lık sistem kullanılarak renk kullanımı yapılabilir.
@@ -37,13 +37,13 @@ Yani ondalık olarak (64, 48.255), onaltılık olarak (40, 30, FF)'ye eşittir v
 0, 0, 0 —> siyah
 255.255.255 —> beyaz (#FFFFFF)
 
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
 
 ## **Bilgisayar Grafiklerinde Optimizasyon**
 
 Fractal’da optimizasyon olmalı, yavaş olmamalı/çalışmamalı.
 
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
 
 ## **Minilibx**
 
