@@ -81,4 +81,7 @@ Orijin (0,0) pencerenin sol üst köşesidir. x ve y ekseni sırasıyla sağa ve
 
 .m Dosya Uzantısı
 
-Bir M dosyası, Objective-C ile yazılmış programlar tarafından kullanılan bir sınıf uygulama dosyasıdır. Bir m tipi dosya, MATLAB Kaynak Kodu dosya formatıdır. Bunlar, grafikleri çizmek algoritmaları çalıştırmak ve matematiksel işlevleri çalıştırmak amacıyla kullanılacak MATLAB programı için komut dosyalarını ve işlevleri depolayan metin dosyalarıdır. Objective-C Uygulama dosyaları m dosya uzantısını kullanır.
+Bir M dosyası, Objective-C ile yazılmış programlar tarafından kullanılan bir sınıf uygulama dosyasıdır. 
+Bir m tipi dosya, MATLAB Kaynak Kodu dosya formatıdır. 
+Bunlar, grafikleri çizmek algoritmaları çalıştırmak ve matematiksel işlevleri çalıştırmak amacıyla kullanılacak MATLAB programı için komut dosyalarını ve işlevleri depolayan metin dosyalarıdır. 
+Objective-C Uygulama dosyaları m dosya uzantısını kullanır.
