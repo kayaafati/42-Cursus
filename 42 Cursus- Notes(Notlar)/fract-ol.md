@@ -1,4 +1,4 @@
-# **Fract-Ol**
+# **Fract-ol**
 
 ## **Karmaşık Sayılar**
 
